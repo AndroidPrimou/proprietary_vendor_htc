@@ -18,6 +18,10 @@ PRODUCT_COPY_FILES += \
 #	vendor/htc/primou/proprietary/lib/libqdp.so:system/lib/libqdp.so \
 #	vendor/htc/primou/proprietary/lib/libqmi.so:system/lib/libqmi.so
 
+# libril
+PRODUCT_COPY_FILES += \
+	vendor/htc/primou/proprietary/lib/libril.so:system/lib/libril.so
+
 # Wifi
 PRODUCT_COPY_FILES += \
 	vendor/htc/primou/proprietary/etc/firmware/bcm4330.hcd:system/etc/firmware/bcm4330.hcd \
