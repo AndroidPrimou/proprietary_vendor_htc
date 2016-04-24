@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/bin/radish:system/bin/radish \
-    vendor/htc/msm7x30-common/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
