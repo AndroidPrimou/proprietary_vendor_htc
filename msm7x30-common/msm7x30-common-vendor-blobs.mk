@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/msm7x30-common/proprietary/lib/libqc-opt.so:obj/lib/libqc-opt.so
 
 PRODUCT_COPY_FILES += \
-    vendor/htc/msm7x30-common/proprietary/bin/bma150_usr:system/bin/bma150_usr \
     vendor/htc/msm7x30-common/proprietary/bin/radish:system/bin/radish \
     vendor/htc/msm7x30-common/proprietary/bin/snd3254:system/bin/snd3254 \
     vendor/htc/msm7x30-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
